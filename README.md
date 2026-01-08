@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I’m Vaishnavi 👋
 
-<!--
-**vaishu-1404/vaishu-1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring Machine Learning practitioner focused on building strong fundamentals
+in data preprocessing, model evaluation, and end-to-end ML pipelines.
 
-Here are some ideas to get you started:
+Currently, I’m learning and practicing:
+- Machine Learning with Python
+- Data preprocessing and feature engineering
+- Model evaluation and bias–variance analysis
+- Building clean, reproducible ML pipelines using scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously worked as a Python Developer, which strengthened my foundations
+in programming, data handling, and writing clean, maintainable code.
+
+I use GitHub to document my learning and showcase practical ML projects.
