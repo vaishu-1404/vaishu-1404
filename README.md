@@ -13,3 +13,24 @@ Previously worked as a Python Developer, which strengthened my foundations
 in programming, data handling, and writing clean, maintainable code.
 
 I use GitHub to document my learning and showcase practical ML projects.
+
+## Featured Projects
+
+### 🏠 House Price Prediction
+A complete regression project focusing on data preprocessing, target transformation,
+and model comparison using Linear Regression and Random Forest.
+
+- Built end-to-end ML pipelines using ColumnTransformer and Pipeline
+- Applied log transformation to handle target skewness
+- Analyzed bias–variance tradeoff using train vs test MAE  
+🔗 https://github.com/vaishu-1404/house-price-prediction
+
+---
+
+### 📊 Customer Churn Prediction (Practice)
+A practice classification project created while learning ML fundamentals.
+
+- Exploratory data analysis and feature preprocessing
+- Model training using Logistic Regression and Random Forest
+- Evaluation using classification metrics and confusion matrix  
+🔗 https://github.com/vaishu-1404/customer-churn-ml-practice
