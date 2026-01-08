@@ -34,3 +34,32 @@ A practice classification project created while learning ML fundamentals.
 - Model training using Logistic Regression and Random Forest
 - Evaluation using classification metrics and confusion matrix  
 🔗 https://github.com/vaishu-1404/customer-churn-ml-practice
+
+## Skills
+
+**Programming & Data**
+- Python
+- pandas, numpy
+
+**Machine Learning**
+- scikit-learn
+- Regression & classification models
+- Model evaluation (MAE, confusion matrix, classification report)
+- Bias–variance analysis
+
+**Data Preprocessing**
+- Missing value handling
+- Feature scaling and encoding
+- ColumnTransformer & Pipeline
+
+**Visualization**
+- matplotlib
+- seaborn
+
+## Other Technical Experience
+
+- Django (Python backend development)
+- React (basic frontend development)
+- Tailwind CSS
+- Selenium (automation and web scraping)
+
